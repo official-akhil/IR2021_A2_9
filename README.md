@@ -6,4 +6,4 @@ In this assignment, our aim is to rank the page URLs on the basis of their DCG a
 
 Assignment Report can be found in [IR_Assignment_2_Report](IR_Assignment_2_Report.pdf).
 
-Assignment Analysis can be found in [IR_Assignment_2_Analysis](IR_Assignment_2_Analysis.pdf)
+Assignment Analysis can be found in [IR_Assignment_2_Analysis](IR_Assignment_2_Analysis.pdf).
