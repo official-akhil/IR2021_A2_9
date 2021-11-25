@@ -1,4 +1,4 @@
-## **Ranked-Information-Retrieval-and-Information**
+## **Ranked-Information-Retrieval-and-Evaluation**
 
 This assignment is done as a part of `Information Retrieval` Course.
 
